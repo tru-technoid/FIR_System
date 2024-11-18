@@ -53,4 +53,22 @@ Developed a PHP-based online FIR platform with a MySQL database, enabling secure
 ## **How to Use**
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/tru-technoid/FIR_System.git
+
+   ```
+2. Ensure you have a PHP server (e.g., XAMPP, WAMP) to run the project.
+3. Place the project folder in your server's root directory (e.g., `htdocs` in XAMPP).
+4. Navigate to the project in your browser:
+   ```url
+   http://localhost/Login/login.html
+   ```
+5. Use the system to log in, generate PDFs, and interact with the UI.
+
+---
+
+## **Libraries and Dependencies**
+### **Third-Party Libraries**
+- **Bootstrap**: CSS and JS framework for responsive design.
+- **Daterangepicker**: Date selection tool.
+- **Perfect Scrollbar**: For custom scrollbar styling.
+- **Select2**: Enhanced select box functionality.
