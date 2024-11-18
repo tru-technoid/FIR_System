@@ -72,3 +72,34 @@ Developed a PHP-based online FIR platform with a MySQL database, enabling secure
 - **Daterangepicker**: Date selection tool.
 - **Perfect Scrollbar**: For custom scrollbar styling.
 - **Select2**: Enhanced select box functionality.
+
+
+### **Fonts**
+- **Ubuntu**: Multiple styles for typography.
+- **Raleway**: Elegant font styles for headlines.
+- **Poppins**: Clean font for modern design.
+- **Montserrat**: Stylish font for professional text.
+- **Font Awesome**: Icon library for UI elements.
+
+---
+
+## **File Details**
+- `login.html`: Main login page.
+- `checklogin.php`: PHP script for user authentication.
+- `firstatus.php`: PHP script for status updates.
+- `vendor/`: Contains all third-party libraries and tools.
+- `css/`: Includes main.css, util.css, and other custom styles.
+- `js/main.js`: Handles client-side interactivity.
+
+---
+
+## **License**
+This project is open-source and licensed under the [MIT License](LICENSE).
+
+---
+
+## **Contributors**
+- **[Your Name]**: Developer and maintainer.
+```
+
+Feel free to modify the placeholder (`<repository-url>`, `[Your Name]`) to match your project's details.
