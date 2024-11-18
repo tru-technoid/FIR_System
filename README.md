@@ -98,8 +98,21 @@ This project is open-source and licensed under the [MIT License](LICENSE).
 
 ---
 
-## **Contributors**
-- **[Your Name]**: Developer and maintainer.
-```
+---
 
-Feel free to modify the placeholder (`<repository-url>`, `[Your Name]`) to match your project's details.
+## Contributing
+
+We welcome contributions! To get started:
+1. Fork the repository.
+2. Create a new branch for your feature (`feature/YourFeature`).
+3. Commit your changes.
+4. Push to your branch.
+5. Open a Pull Request for review.
+
+---
+
+### Contact
+
+For any **questions** or support, reach out to [trushadowspecter261@gmail.com](mailto:trushadowspecter261@gmail.com).
+
+---
